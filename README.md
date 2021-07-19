@@ -9,7 +9,7 @@
 
 # Requisitos e Regras de negócio
 
-- [Link do sesafio 1](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8)
+- [Link do desafio 1](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8)
 
 # Como inicializar a aplicação
  ```
